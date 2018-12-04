@@ -1,0 +1,6 @@
+Location: Central Paris, France
+Link to OSM: https://www.openstreetmap.org/export#map=15/48.8530/2.3545
+
+The are encompasses the oldest part of Paris - the Ile de la Cité (where Notre Dame Cathedral is located) - and the surrounding arrondissements (districts). On the Left Bank this includes is the 5th, 6th, 7th arrondissements (and perhaps the 13th), on the right bank that is the 4th, the 1st and a bit of the 3rd. Each arrondissement has it's own postal code: the 5th is 75005, the 6th 75006.
+
+I picked this area because this has been my neighbourhood for the past 7 years, so I know it well. Also, given the density I figured even a small geographic area like this would include a lot of data: Paris is one of the densest cities in Europe; the density is more on par with Asian cities than European ones (see https://en.wikipedia.org/wiki/List_of_cities_by_population_density).

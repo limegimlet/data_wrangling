@@ -1,0 +1,24 @@
+REFERENCES
+
+===OpenStreetMap===
+http://learnosm.org/en/coordination/review/
+
+===Sources for Paris amenities===
+How many restos ? (13,955) http://www.tripadvisor.com/Restaurants-g187147-Paris_Ile_de_France.html
+How many Vélib stations in Paris? (1260) http://www.parisavelo.net/stats.php
+Project to automated import of cadastre data: http://wiki.openstreetmap.org/wiki/WikiProject_France/Cadastre/Import_automatique_des_b%C3%A2timents
+Result of a query of online cadastre info: https://www.cadastre.gouv.fr/scpc/afficherCarteFeuille.do?f=ZP105000AB01&dontSaveLastForward&keepVolatileSession=
+
+===Phone number format===
+http://wiki.openstreetmap.org/wiki/Key:phone#Usage
+http://stackoverflow.com/questions/123559/a-comprehensive-regex-for-phone-number-validation
+https://en.wikipedia.org/wiki/National_conventions_for_writing_telephone_numbers#France
+test regex https://regex101.com/
+
+===Python===
+http://stackoverflow.com/questions/613183/sort-a-python-dictionary-by-value
+
+===Mongo DB===
+https://docs.mongodb.org/getting-started/python/
+http://stackoverflow.com/questions/24907631/mongodb-aggregate-with-conditional-sums
+
